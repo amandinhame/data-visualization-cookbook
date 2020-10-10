@@ -6,3 +6,4 @@
 * [Plot types examples](./matplotlib/plot_types.ipynb)
 * [Subplots](./matplotlib/subplots.ipynb)
 * [Axes](./matplotlib/axes.ipynb)
+* [Title, annotation and legend](./matplotlib/title_annotation_legend.ipynb)
