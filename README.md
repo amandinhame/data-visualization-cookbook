@@ -8,3 +8,4 @@
 * [Axes](./matplotlib/axes.ipynb)
 * [Title, annotation and legend](./matplotlib/title_annotation_legend.ipynb)
 * [Colors](./matplotlib/colors.ipynb)
+* [Storytelling with data](./matplotlib/storytelling_with_data.ipynb)
